@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    }    
+body{
+    font-family: 'TT Hoves';
+    font-size:18px;
+    
+}
+.header_nav {
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 44px;
+    border-bottom: 1px solid white;
+}
+.exception {
+    margin-left: 60px;
+}
+.a_1 {
+    text-decoration: none;
+    color: black;
+}
+.a_1:hover{
+    color: blue ;
+}
+.img1 {
+    padding-top:29px;
+}
+.img2 {
+    padding-top: 48px;
+ 
+}
+.img3 {
+  padding-left: 25px;
+  padding-right:30px;
+  padding-top: 90px;
+}
+.header {
+    font-family: "Roboto";
+    display:flex;
+    justify-content: space-between;
+    margin-top: 45px ;
+}
+span {
+  color:#BDBDBD ;
+}
+.PROJECT{
+  font-size: 64px;
+  padding-top: 300px;
+  padding-left: 135px;
+  font-family: 'TT Hoves';
+}
+.wrapper{
+    width: 1440px;
+    margin: 0 auto;
+}
+.start {
+    display: flex;
+    justify-content: space-between
+}
+.button1 {
+    width: 53px;
+    height: 53px;
+    margin-top:90px;
+    border: solid 1px #BDBDBD;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button1:hover {
+    background-color: #F9F9F9;
+}    
+.a_2 {
+    text-decoration: none;
+}
+.a_3 {
+    text-decoration: none;
+    color:#BDBDBD ;
+}
+.p1 {
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 24px;
+    color: #BDBDBD;
+    padding-top:94px;
+}
+.p_boss{
+    display: flex;
+}
+.container {
+    position: relative;
+    width: 50%;
+}
+.container img {
+    width: 100%;
+    height: auto;
+}
+.container .btn {
+    position: absolute;
+    top:95%;
+    left:14%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-30%, -30%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 30px 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 1px;
+}
+.container .btn:hover {
+    background-color: white;
+}

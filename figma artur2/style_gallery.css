@@ -1,0 +1,150 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}    
+.header_nav {
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid white;
+}
+.a_1 {
+    text-decoration: none;
+    color: black;
+}
+.a_1:hover{
+    color: blue ;
+}
+.img1 {
+    padding-top:5px;
+}
+.header {
+    font-family: "Roboto";
+    display:flex;
+    justify-content: space-around;
+}
+.exception {
+    margin-left: 60px;
+}
+.wrapper{
+    width: 1440px;
+    margin: 0 auto;
+}
+.span_1{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    font-family: 'TT Hoves';
+    font-style: normal;
+     color: #BDBDBD;
+}
+.span_2{
+    font-family: 'TT Hoves';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+}
+.ggaa{
+    margin-top: 156px;
+}
+.ul_img_1{
+    display:flex;
+    list-style: none;
+    font-size: 30px;
+    margin-top: 61px;
+    
+}
+.ul_img_2{
+    display:flex;
+    list-style: none;
+}
+.li_img_1 img{
+margin-right: 32px;
+}
+.li_img_2 img{
+    margin-right: 32px;
+}
+.li_p{
+    font-size: 14px;  
+}
+.p_01{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    
+    
+}
+.p_05{
+    color: #BDBDBD;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+}
+.div_p_img{
+    display: flex;
+    margin-top: 75px;
+}
+.button1 {
+    width: 53px;
+    height: 53px;
+    margin-top: 90px;
+    border: solid 1px #BDBDBD;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    cursor:pointer;
+    
+}
+
+.button1:hover {
+    background-color: #F9F9F9;
+}
+.a_2 {
+    text-decoration: none;
+}
+.div_button{
+    position:relative;
+    left:130px;
+    bottom:140px;
+}
+.footer_1{
+    background-color: #2C2C2C;
+    display: flex;
+    padding-top: 60px;
+}
+.pre{
+    margin-left: 125px;
+}
+.ul_footer_1{
+    color: white;
+    list-style: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 200px;
+
+}
+.ul_footer_2{
+    color: white;
+    list-style: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 355px;
+}
+.vk_footer{
+    color: white;
+    list-style: none;
+    margin-left: 500px;
+    display: flex;
+    
+
+}
